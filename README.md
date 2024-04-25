@@ -31,6 +31,7 @@ Importance: This question is significant economically and is important for publi
 
 # Manipulations
 One manipulation that we performed on the data was removing the time from the date/time column. There is a separate column for time already, and this was redundant data that was removed to improve readability. We did this by importing the data into excel, creating a separate column to clean the data, and performing the manipulation.
+
 For one of our questions, we decided to forecast the quantity of specific crimes by month. In order to do this, we imported the data in excel to create a new column specifically for the month. With this new column, it allows us to more easily visualize our data and have a more readable data set. This would normally be a problem if the data spanned multiple years as the months in separate years would overlap, but the data is contained only within 2020, and the month of crime would not cross years.
 
 
