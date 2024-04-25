@@ -20,10 +20,10 @@ Our dataset describes all of the crimes that were reported in the City of Los An
 
 # Questions and Analyses
 ## Question 1
-**How has the distribution of crime types in LA changed over time since 2020, and are there any notable trends or shifts in average age of criminal?**
+**What are the trends in average age for drug possession and trespassing crime types in LA in 2020?**
 
 ## Question 2
-**Are there any spatial patterns or hotspots of burglary and motor vehicle theft within LA, and how do these patterns vary based on the type of crime?**
+**What is the trend in the quantity of burglaries for the month of december and the forecast for the next 4 months of 2021.**
 
 # Manipulations
 
