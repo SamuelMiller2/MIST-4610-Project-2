@@ -20,7 +20,8 @@ Our dataset describes all of the crimes that were reported in the City of Los An
 
 # Questions and Analyses
 ## Question 1
-**What are the trends in average age for drug possession and trespassing crime types in LA in 2020?**
+**What are the trends in average age for drug possession and trespassing crime types in LA in 2020?
+Importance: The trends in average age for drug possession and trespassing crime types from Los Angeles in 2020 provides an understanding of the demographics most involved in these crime types. This provides effective resource allocation, policy forming, and social service assistance. By analyzing trends in the average age of people arrested for drug possession and trespassing, policymakers and law enforcement can better understand if these issues affect specific age groups, such as youth or adults. This information can help with the creation of age-specific prevention and education programs, such as youth outreach programs or adult rehab services. Additionally, this analysis could reveal changes in crime trends over time, which is important for assessing the effectiveness of current policies. The data set used likely includes arrest records from law enforcement, which would provide the correct demographic details to conduct this analysis.**
 
 ## Question 2
 **What is the trend in the quantity of burglaries for the month of december and the forecast for the next 4 months of 2021.**
