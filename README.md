@@ -20,9 +20,7 @@ Our dataset describes all of the crimes that were reported in the City of Los An
 
 ***Columns:***
 
-![image](https://github.com/SamuelMiller2/MIST-4610-Project-2/assets/150087690/2e041c9a-60ed-4c29-8a51-147cb24fadcf)
-![image](https://github.com/SamuelMiller2/MIST-4610-Project-2/assets/150087690/59ea9c2e-d7f1-4b5d-b856-b2d4d6ca432d)
-![image](https://github.com/SamuelMiller2/MIST-4610-Project-2/assets/150087690/d6e30bf9-c92e-4ad2-ab8a-79342188441b)
+![image](https://github.com/SamuelMiller2/MIST-4610-Project-2/assets/150087690/2e041c9a-60ed-4c29-8a51-147cb24fadcf)![image](https://github.com/SamuelMiller2/MIST-4610-Project-2/assets/150087690/59ea9c2e-d7f1-4b5d-b856-b2d4d6ca432d)![image](https://github.com/SamuelMiller2/MIST-4610-Project-2/assets/150087690/d6e30bf9-c92e-4ad2-ab8a-79342188441b)
 
 
 
