@@ -19,6 +19,8 @@ Michael Banks
 Our dataset describes all of the crimes that were reported in the City of Los Angeles area from 2020 to present. The dataset is currently being updated bi-weekly to be up to date. We obtained our data from [https://catalog.data.gov/dataset](https://catalog.data.gov/dataset), and the specific link to our dataset is [https://catalog.data.gov/dataset/crime-data-from-2020-to-present](https://catalog.data.gov/dataset/crime-data-from-2020-to-present). Although our data contains much information about each crime, the notable attributes are the date the crime was reported, when the crime occurred, details about the offender, details about the victim, and different location measures of the crime. Each row in the dataset corresponds to one reported crime identified by a DR_NO or a department report number.
 
 ***Columns:***
+![image](https://github.com/SamuelMiller2/MIST-4610-Project-2/assets/150087690/cbcdc3a9-b0b3-460f-b955-53888d8f8734)
+
 
 # Questions and Analyses
 ## Question 1
