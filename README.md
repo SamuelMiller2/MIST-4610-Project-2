@@ -56,12 +56,19 @@ Premis Desc: A description of the premises corresponding to the Premis Cd. (Stri
 Weapon Used Cd: A code indicating the type of weapon used in the crime, if any. (Number (whole))
 
 Weapon Desc: A description of the weapon corresponding to the Weapon Used Cd. (String)
+
 Status: A code indicating the current status of the crime investigation or case. (String)
+
 Status Desc: A description of the status corresponding to the Status code. (String)
+
 Crm Cd 1, Crm Cd 2, Crm Cd 3, Crm Cd 4: Additional crime codes if the incident involved multiple offenses. (Number (whole))
+
 LOCATION: The location where the crime occurred, provided to the nearest hundred block address for privacy reasons. (String)
+
 Cross Street: The nearest cross street to the location of the crime. (String)
+
 LAT: The latitude coordinate of the crime location (missing data noted as (0°, 0°)). (Number (decimal))
+
 LON: The longitude coordinate of the crime location (missing data noted as (0°, 0°)). (Number (decimal))
 
 
