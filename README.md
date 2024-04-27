@@ -26,7 +26,7 @@ Our dataset describes all of the crimes that were reported in the City of Los An
 
 
 
-# Questions and Analyses
+# Questions and Analysis
 ## Question 1
 **What are the average ages for minor victims (under 18) for each crime type within the data set?**
 
