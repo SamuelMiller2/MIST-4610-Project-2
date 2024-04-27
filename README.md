@@ -18,6 +18,35 @@ Michael Banks
 # Dataset Description
 Our dataset describes all of the crimes that were reported in the City of Los Angeles area from 2020 to present. The dataset is currently being updated bi-weekly to be up to date. We obtained our data from [https://catalog.data.gov/dataset](https://catalog.data.gov/dataset), and the specific link to our dataset is [https://catalog.data.gov/dataset/crime-data-from-2020-to-present](https://catalog.data.gov/dataset/crime-data-from-2020-to-present). Although our data contains much information about each crime, the notable attributes are the date the crime was reported, when the crime occurred, details about the offender, details about the victim, and different location measures of the crime. Each row in the dataset corresponds to one reported crime identified by a DR_NO or a department report number.
 
+**Columns:**
+DR_NO: This stands for "Division Report Number" or "Department Report Number," which is a unique identifier assigned to each crime incident report. (Number (whole))
+Date Rptd: The date when the crime was reported to the authorities. (Date & Time)
+DATE OCC: The date when the crime actually occurred. (Date & Time)
+TIME OCC: The time when the crime occurred. (Number (whole))
+MONTH OCC: The month of when the crime occurred. (String)
+AREA: A numerical code representing the specific geographic area within Los Angeles where the crime took place. (Number (whole))
+AREA NAME: The name of the geographic area corresponding to the AREA code. (String)
+Rpt Dist No: This stands for "Reporting District Number," which is a smaller geographic unit within an AREA used for reporting and tracking crimes. (Number (whole))
+Part 1-2: This could indicate whether the crime is classified as a Part 1 (more serious) or Part 2 (less serious) offense based on the FBI's Uniform Crime Reporting (UCR) system. (Number (whole))
+Crm Cd: A numerical code representing the specific type of crime committed. (Number (whole))
+Crm Cd Desc: A brief description of the crime corresponding to the Crm Cd. (String)
+Mocodes: Additional codes that provide more details about the modus operandi (MO) or characteristics of the crime. (Number (whole))
+Vict Age: The age of the victim. (Number (whole))
+Vict Sex: The gender of the victim. (String)
+Vict Descent: The descent or ethnicity of the victim. (String)
+Premis Cd: A code representing the type of premises where the crime occurred. This could be a residence, commercial building, park, etc. (Number (whole))
+Premis Desc: A description of the premises corresponding to the Premis Cd. (String)
+Weapon Used Cd: A code indicating the type of weapon used in the crime, if any. (Number (whole))
+Weapon Desc: A description of the weapon corresponding to the Weapon Used Cd. (String)
+Status: A code indicating the current status of the crime investigation or case. (String)
+Status Desc: A description of the status corresponding to the Status code. (String)
+Crm Cd 1, Crm Cd 2, Crm Cd 3, Crm Cd 4: Additional crime codes if the incident involved multiple offenses. (Number (whole))
+LOCATION: The location where the crime occurred, provided to the nearest hundred block address for privacy reasons. (String)
+Cross Street: The nearest cross street to the location of the crime. (String)
+LAT: The latitude coordinate of the crime location (missing data noted as (0°, 0°)). (Number (decimal))
+LON: The longitude coordinate of the crime location (missing data noted as (0°, 0°)). (Number (decimal))
+
+
 # Questions and Analyses
 ## Question 1
 **What are the trends in average age for drug possession and trespassing crime types in LA in 2020?**
