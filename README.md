@@ -11,7 +11,7 @@ Arika Chiluvuri
 
 Riley Eckstrom
 
-Owen Donnelly
+[Owen Donnelly]([url](https://github.com/dangermouse5/MIST-4610-Project-2))
 
 Michael Banks
 
