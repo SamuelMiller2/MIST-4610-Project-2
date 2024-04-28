@@ -45,7 +45,7 @@ Importance: This question is economically significant and is important for publi
 
 Analysis: Upon analyzing the burglary data for each month in 2020, a clear seasonal trend emerges. The number of burglaries consistently peaks during the summer months, particularly in May and June, while reaching its lowest points in the fall months of September and October.
 
-To predict the number of burglaries for January 2021, we extended the trendline based on the 2020 data, though the trendline was not extraordinarily helpful with a low overall R^2 value, the graph did generally trend downward. We would expect January 2021 to be similar to 2020, but potentially on the lower side of burglary occurrence. We also believe law enforcement agencies could allocate additional resources during the summer months to combat the expected rise in burglaries.
+To predict the number of burglaries for January 2021, we extended the trendline based on the 2020 data, though the trendline had a low overall R^2 value, the graph did generally trend downward. We would expect January 2021 to be similar to 2020, but potentially on the lower side of burglary occurrence. We also believe law enforcement agencies could allocate additional resources during the summer months to combat the expected rise in burglaries.
 
 Visualizing this data in this way also brought an amount of curiosity to our group and made us think of additional opportunities for analysis. One could look at the specific characteristics of burglaries such as the targeted locations, times of day, and entry methods. While compiling that information could be costly, it would also provide additional valuable insights for building crime prevention strategies.
 
