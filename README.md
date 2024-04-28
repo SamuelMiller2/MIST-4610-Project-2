@@ -55,5 +55,5 @@ For one of our questions, we decided to forecast the number of specific crimes b
 
 
 # Tableau Packaged Workbook
-Note: We had to upload them do Google Drive, files are too large
+Note: We had to upload them to Google Drive, our workbook files are too large for GitHub.
 https://drive.google.com/drive/folders/1pgqyDfCVWh4S1eCxYFqDDsgaDenliVnM?usp=drive_link
