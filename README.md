@@ -3,7 +3,7 @@
 # Team Name
 47114 Group 6
 # Team Members
-Samuel Miller
+<a href="https://github.com/SamuelMiller2/MIST-4610-Project-2/blob/main/README.md">Samuel Miller</a>
 
 Sophia Scarangello 
 
