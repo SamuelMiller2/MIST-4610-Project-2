@@ -15,6 +15,10 @@ Riley Eckstrom
 
 Michael Banks
 
+# Tableau Packaged Workbook
+Please Note: As our workbook files exceeded the 25MB upload limit imposed by the browser version of GitHub, we were forced to upload them to Google Drive.
+https://drive.google.com/drive/folders/1pgqyDfCVWh4S1eCxYFqDDsgaDenliVnM?usp=drive_link
+
 # Dataset Description
 Our dataset describes all of the crimes that were reported in the City of Los Angeles area from 2020 to the present. The dataset is currently being updated bi-weekly to be up to date. We obtained our data from [https://catalog.data.gov/dataset](https://catalog.data.gov/dataset), and the specific link to our dataset is [https://catalog.data.gov/dataset/crime-data-from-2020-to-present](https://catalog.data.gov/dataset/crime-data-from-2020-to-present). Although our data contains much information about each crime, the notable attributes are the date the crime was reported, when the crime occurred, details about the offender, details about the victim, and different location measures of the crime. Each row in the dataset corresponds to one reported crime identified by a DR_NO or a department report number.
 
@@ -53,6 +57,4 @@ One manipulation that we performed on the data was removing the time from the da
 
 
 
-# Tableau Packaged Workbook
-Note: We had to upload them to Google Drive, our workbook files are too large for GitHub.
-https://drive.google.com/drive/folders/1pgqyDfCVWh4S1eCxYFqDDsgaDenliVnM?usp=drive_link
+
