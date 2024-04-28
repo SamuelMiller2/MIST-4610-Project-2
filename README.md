@@ -37,6 +37,8 @@ Analysis: Upon analyzing the data, we segmented the victims into age brackets of
 ## Question 2
 **What is the trend in the quantity of burglaries for the month of December**
 
+Importance: This question is economically significant and is important for public safety planning, as understanding seasonal trends and predicting a forecast for future occurrences of burglaries can help law enforcement allocate resources more efficiently and potentially reduce crime rates. The December analysis might reveal specific vulnerabilities or patterns that could inform the police to execute preventative measures during high-risk periods. The month of December experiences an increased rate of burglaries and theft due to the holidays and individuals trying to acquire gifts for their families. This makes the modeling for December especially important. Predicting a forecast the first month allows police departments to prepare adequately, by increasing patrols or community alerts during expected peaks in criminal activity. Understanding these trends also assists in budget planning and resource allocation for community policing efforts. The data set for this question would include crime incident reports collected over time, enabling trend analysis and predictive modeling to forecast future occurrences based on historical data. This kind of analysis not only aids in immediate law enforcement response but also in long-term community safety strategies.
+
 # Manipulations
 One manipulation that we performed on the data was removing the time from the date/time column. There is a separate column for time already, and this was redundant data that was removed to improve readability. We did this by opening the dataset in Excel and using a function to perform said manipulation.
 
