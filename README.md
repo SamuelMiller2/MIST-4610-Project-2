@@ -5,7 +5,7 @@
 # Team Members
 <a href="https://github.com/SamuelMiller2/MIST-4610-Project-2/blob/main/README.md">Samuel Miller</a>
 
-Sophia Scarangello 
+<a href="https://github.com/sophiascarangello/MIST-4610-Project-2">Sophia Scarangello</a>
 
 Arika Chiluvuri
 
