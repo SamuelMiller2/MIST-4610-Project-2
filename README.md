@@ -45,6 +45,7 @@ For one of our questions, we decided to forecast the number of specific crimes b
 
 # Results
 ## Question 1 Visualization
+<img width="808" alt="image" src="https://github.com/SamuelMiller2/MIST-4610-Project-2/assets/163002732/168b9809-2462-4fef-87a7-8cb624e87624">
 
 ## Question 2 Visualization
 ![image](https://github.com/SamuelMiller2/MIST-4610-Project-2/assets/150087690/3dce9c9d-1836-4de8-ad77-b076cd6aad9c)
