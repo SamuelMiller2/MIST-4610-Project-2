@@ -47,6 +47,8 @@ For one of our questions, we decided to forecast the number of specific crimes b
 ## Question 1 Visualization
 
 ## Question 2 Visualization
+![image](https://github.com/SamuelMiller2/MIST-4610-Project-2/assets/150087690/e1ff0c92-5176-4b89-8647-0bf7094dee10)
+
 
 # Tableau Packaged Workbook
 https://drive.google.com/drive/folders/1pgqyDfCVWh4S1eCxYFqDDsgaDenliVnM?usp=drive_link
