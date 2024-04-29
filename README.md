@@ -13,7 +13,7 @@ Arika Chiluvuri
 
 <a href="https://github.com/dangermouse5/MIST-4610-Project-2">Owen Donnelly</a>
 
-Michael Banks
+<a href="https://github.com/MichaelBanks3/MIST-4610-Project-2">Michael Banks</a>
 
 # Tableau Packaged Workbook
 Please Note: As our workbook files exceeded the 25MB upload limit imposed by the browser version of GitHub, we were forced to upload them to Google Drive.
