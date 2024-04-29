@@ -7,7 +7,7 @@
 
 <a href="https://github.com/sophiascarangello/MIST-4610-Project-2">Sophia Scarangello</a>
 
-Arika Chiluvuri
+< a href="https://github.com/rte84597/MIST-4610-Project-2">Arika Chiluvuri</a>
 
 <a href="https://github.com/rte84597/MIST-4610-Project-2/tree/main">Riley Eckstrom</a>
 
